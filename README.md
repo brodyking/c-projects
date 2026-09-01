@@ -1,2 +1,3 @@
-# blackjack-c
+# c projects
 
+basic c projects for uni
